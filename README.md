@@ -1,6 +1,6 @@
 __EFI Narrative and Computational Text Analysis Notebooks__
 
-This repository includes all coding material for the Ediburgh Future Institute's Narrative and Computational Text Analysis course, part of the MSc Future Narrative.  The notebooks include:
+This repository includes all coding material for the Narrative and Computational Text Analysis course, part of the MSc Future Narrative at the Edinburgh Future Institute.  The notebooks include:
 
 - an introduction to Jupyter Notebooks and Python
 - a lesson on using Regular Expressions to convert textual data into a structured format
